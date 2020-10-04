@@ -102,6 +102,12 @@ details {
     padding: 5em 0 !important;
 }
 
+/*@media (max-width: 768px) {
+    .ftco-navbar-light{
+        display: none !important;
+    }*/
+}
+
 /* End of Custom */
 
 :root {
