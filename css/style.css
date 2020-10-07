@@ -21,8 +21,11 @@ body {
 }
 
 @media (max-width: 768px) {
-    .resume-wrap .icon {
-        display: none !important;
+    .mobile-shift-left-ul {
+        margin-left: -88px !important;
+    }
+    .mobile-shift-left-p {
+        margin-left: -66px !important;
     }
 }
 
